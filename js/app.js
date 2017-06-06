@@ -1,3 +1,5 @@
+// TODO: Initialize firebase here
+
 $(document).ready(function () {
   $('.swap2login').click(function () {
     $('#signUp').addClass('hide');
@@ -17,3 +19,4 @@ $(document).ready(function () {
     return false;
   });
 });
+
